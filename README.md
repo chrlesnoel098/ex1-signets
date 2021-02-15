@@ -1,3 +1,3 @@
-# Titre du site Web ou application
+# Exercice 1 (travail individuel)
 
-Court texte présentant votre site Web/application.
+Concepts vus en classe pour produire l’interface utilisateur d’une application Web monopage de la façon la plus modulaire possible en utilisant des composants React.
